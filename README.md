@@ -1,1 +1,2 @@
-"# patters" 
+# patterns
+# Tarea : Paucar Bonifacio Bhérring

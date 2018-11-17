@@ -1,12 +1,15 @@
 ﻿using System;
 
-namespace Patterns
+namespace Singleton
 {
+    using Singleton.ThirdVersion;
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Singleton.Instance.CallMe();
+            Console.ReadKey();
+
         }
     }
 }

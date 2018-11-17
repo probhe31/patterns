@@ -1,0 +1,11 @@
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\bin\Debug\netcoreapp2.1\Singleton.deps.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\bin\Debug\netcoreapp2.1\Singleton.runtimeconfig.dev.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\bin\Debug\netcoreapp2.1\Singleton.dll
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\bin\Debug\netcoreapp2.1\Singleton.pdb
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.csprojAssemblyReference.cache
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.csproj.CoreCompileInputs.cache
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfoInputs.cache
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.AssemblyInfo.cs
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.dll
+D:\MAESTRIA\DYC\Patterns\Patterns\Patterns\obj\Debug\netcoreapp2.1\Singleton.pdb

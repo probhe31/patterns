@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Patterns\\Singleton.csproj",
-      "projectName": "Singleton",
-      "projectPath": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Patterns\\Singleton.csproj",
+      "projectUniqueName": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
+      "projectName": "Bridge",
+      "projectPath": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Bridge\\Bridge\\Bridge.csproj",
       "packagesPath": "C:\\Users\\bhpau\\.nuget\\packages\\",
-      "outputPath": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Patterns\\obj\\",
+      "outputPath": "D:\\MAESTRIA\\DYC\\Patterns\\Patterns\\Bridge\\Bridge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,10 @@
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.deps.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.runtimeconfig.dev.json
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.dll
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\bin\Debug\netcoreapp2.1\Bridge.pdb
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.csproj.CoreCompileInputs.cache
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfoInputs.cache
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.AssemblyInfo.cs
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.dll
+D:\MAESTRIA\DYC\Patterns\Patterns\Bridge\Bridge\obj\Debug\netcoreapp2.1\Bridge.pdb

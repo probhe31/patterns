@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Singleton.FifthVersion
+namespace Singleton.FifthVersion
 {
     //FULLY LAZY INSTANTIATION
     public sealed class Singleton

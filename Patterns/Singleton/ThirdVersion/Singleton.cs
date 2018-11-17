@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Singleton.ThirdVersion
+namespace Singleton.ThirdVersion
 {
     //THREAD-SAFE USING DOUBLE-CHECK LOCKING
     public sealed class Singleton
@@ -30,6 +30,11 @@ namespace Patterns.Singleton.ThirdVersion
                 }
                 return instance;
             }
+        }
+
+        public void CallMe()
+        {
+            Console.WriteLine("Hi Singleton");
         }
     }
 }

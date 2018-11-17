@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Singleton.SecondVersion
+namespace Singleton.SecondVersion
 {
     //SIMPLE THREAD - SAFETY
     public sealed class Singleton

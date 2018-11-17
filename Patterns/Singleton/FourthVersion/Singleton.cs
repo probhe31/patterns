@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Singleton.FourthVersion
+namespace Singleton.FourthVersion
 {
     //THREAD - SAFE WITHOUT USING LOCKS
     public sealed class Singleton

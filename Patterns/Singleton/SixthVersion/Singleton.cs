@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Patterns.Singleton.SixthVersion
+namespace Singleton.SixthVersion
 {
     //USING LAZY<T> TYPE
     public sealed class Singleton
